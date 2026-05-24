@@ -1,8 +1,7 @@
 <h1 align="center">Olá, eu sou a Laiza! 👋</h1>
 
-<p align="center">
-  Desenvolvedora Frontend em formação, gosto de criar interfaces bonitas e funcionais.<br>
-  Estudando o ecossistema completo — do frontend ao mobile — para construir aplicações completas.
+<p align="center" height=20>
+  	𝑨 𝒉𝒖𝒎𝒊𝒍𝒅𝒂𝒅𝒆 𝒂𝒏𝒕𝒆𝒄𝒆𝒅𝒆 𝒂 𝒉𝒐𝒏𝒓𝒂.
 </p>
 
 ---
