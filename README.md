@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👩‍💻 Sobre mim
 
 - 🎨 Estudante **Frontend** — HTML, CSS e JavaScript
 - ⚡ Aprendendo **Vue.js + Vite** e integração com APIs via **Axios**
