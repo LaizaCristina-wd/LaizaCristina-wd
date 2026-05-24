@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Laiza! 👋</h1>
 
-<p align="center" height=20>
+<p align="center" font-size=200px>
   	𝑨 𝒉𝒖𝒎𝒊𝒍𝒅𝒂𝒅𝒆 𝒂𝒏𝒕𝒆𝒄𝒆𝒅𝒆 𝒂 𝒉𝒐𝒏𝒓𝒂.
 </p>
 
